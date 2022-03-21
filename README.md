@@ -36,7 +36,7 @@ Old ones are deleted sequentially.
      
    <img width="992" alt="image" src="https://user-images.githubusercontent.com/39667272/159204014-47c8c5e7-0927-4d7a-862d-844dd5901237.png">
 
-# List of backed up file results  
+# backup file results  
 
 <img width="846" alt="image" src="https://user-images.githubusercontent.com/39667272/159203546-c1dd2795-efef-4a76-908a-91a990493506.png">
 
