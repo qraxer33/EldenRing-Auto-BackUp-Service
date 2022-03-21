@@ -40,7 +40,7 @@ Old ones are deleted sequentially.
 
 <img width="846" alt="image" src="https://user-images.githubusercontent.com/39667272/159203546-c1dd2795-efef-4a76-908a-91a990493506.png">
 
-
+# __Warning!__  
 __Shut down EldenRing as soon as you receive a save destruction hack attack.__  
 __The file is overwritten with an older version of the latest backup file.__  
 
